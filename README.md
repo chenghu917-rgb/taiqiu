@@ -79,6 +79,12 @@ Capacitor 6 + Android Gradle
 其他
 PHPMailer、PhpSpreadsheet、Endroid QR Code
 
+<img width="429" height="932" alt="QQ20260630-034427" src="https://github.com/user-attachments/assets/601639ac-f15c-4fa1-9887-a77b23881cf0" />
+<img width="432" height="930" alt="QQ20260630-034413" src="https://github.com/user-attachments/assets/a881680e-4517-4f87-a9bf-e8dec7375ac1" />
+<img width="430" height="932" alt="QQ20260630-034405" src="https://github.com/user-attachments/assets/b5720576-f932-40bd-acfb-972e8dfb2873" />
+<img width="429" height="932" alt="QQ20260630-034356" src="https://github.com/user-attachments/assets/6b461583-e567-4a84-96c1-fdc68ba6950a" />
+<img width="431" height="931" alt="QQ20260630-034344" src="https://github.com/user-attachments/assets/cf4a26a2-5c91-4df2-ad46-40f9f1c7b564" />
+<img width="429" height="932" alt="QQ20260630-034439" src="https://github.com/user-attachments/assets/63813483-5c93-4cdc-bae4-a51860adb8a2" />
 
 
 
